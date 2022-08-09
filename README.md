@@ -2,7 +2,7 @@
 
 Excel file content comparism system
 
-Project name - CompareX
+Project Name - CompareX
 
 CompareX is a system under development to serve the following functionalities
 
@@ -91,4 +91,5 @@ View the live demo of the project [here](https://team-109-excel-comp.vercel.app/
 
   open your browser and go to `http://localhost:3000/`
   there you'll be able to view the app and see your changes as you code
+  
   
